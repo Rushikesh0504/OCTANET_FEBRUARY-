@@ -503,7 +503,7 @@ footer a {
     </main>
     <footer>
       Created by
-      <a href="#">Mohd Shariq</a>
+      <a href="#">RUSHIKESH DHENGE</a>
     </footer>
   </body>
 </html>
